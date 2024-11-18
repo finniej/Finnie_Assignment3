@@ -8,7 +8,8 @@
 # Decapoda species will be undersampled in all regions of Canada, following global trends.
 # Sampling of Decapoda species of non-commercial value will be significantly less accumulated when compared to commercially valued species.
 
-# Author: Jessica Finnie
+# Original Author: Jessica Finnie
+# Attribution: Kunjal Akolkar - Summarizing Function, Comparing Slopes of Curves.
 
 # Date Created: 2024-09-23
 
